@@ -39,12 +39,20 @@ F1-Score:
 
 ## Getting Started
 Prerequisites :-
+
   Python [mention version, e.g., 3.8+]
+  
 Libraries used :-
+
   Numpy,Pandas,Matplotlib,seaborn
 
-Team (Contributors) :
+
+## Team (Contributors) :
+
 Soham agarwal (https://github.com/agarwalsoham993/)
+
 Keshab Agarwal 
+
 Sounika mondal
+
 Mangalam sharma
